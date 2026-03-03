@@ -7,13 +7,12 @@
 * 🩷 I love creating and playing games as a hobby! 
 * ✨ Fun fact: I'm bilingual - fluent in English and Chinese! Right now, I'm also learning Cantonese and Japanese.
 * ♀️ Pronouns: she/her
-* 📞 Contact me: audrey.shi108@gmail.com or AudreyS108 on Slack!
+* 📞 Contact me: audrey.shi121@gmail.com or AudreyS108 on Slack!
 
 ### My Awards:
 - *Completed* Hack Club's **Athena Award**
 - *First place* for Hack Club's Game jam **Daydream Auckland**
 
-***Bye! Thanks for stopping by. :D***
 
 <!--
 **AudreyS108/AudreyS108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

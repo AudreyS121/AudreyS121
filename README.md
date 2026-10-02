@@ -12,13 +12,18 @@
 
 ---
 ### My Awards:
-- *Completed* Hack Club's **Athena Award**
-- *First place* for Hack Club's Game jam **Daydream Auckland**
+#### Olympiads
+- **New Zealand Mathematical Olympiad**: Qualified for Round 2
+
+#### Hack-a-thons
+- Hack Club's **Athena Award**: Female& Non-binary only coding award programme. Created 3 Coding Projects in 30 Hours.
+- Hack Club's Game jam **Daydream Auckland**: Earned First Place
+
 ---
 ### Let's Connect:
 [LinkedIn](https://www.linkedin.com/in/a-shi121/) | [Gmail](mailto:audreyshi.121@gmail.com) | [Instagram](https://www.instagram.com/audri.121/)
 
-📞 Contact me: audrey.shi121@gmail.com or AudreyS108 on Slack.
+📞 Contact me: audrey.shi121@gmail.com 
 
 ---
 
